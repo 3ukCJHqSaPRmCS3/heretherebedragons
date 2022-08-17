@@ -1,0 +1,23 @@
+# README #
+
+### Sphereflow Wave ###
+
+This is the repository for wave, a sphereflow side project. The constellation design is being approached as follows: 
+1. Computation of a set of constellations satisfying the input required by customer (visibility, time of the passage, frequency, etc.) using Genetic Algorithms
+2. Computation of a set of maneuvers to move constellation at time t0 to the new constellation at time tf using RL 
+3. Final optimization will consider all the possible final constellations design and choose the best one in terms of maneuver cost, time of change, etc. (however the stage of development will see a brute foce approch and a GA approach before the development of the RL approach)
+
+* Version 1.0: the maneuver si currenlty being computed using a brute force approach.
+
+
+### Contribution guidelines ###
+
+* Code review from the team meambers 
+* Writing layout in line with the sphereflow package layout
+
+### Who do I talk to? ###
+
+Admin of the repo: Giuliana E. Miceli [giuliana.miceli@morpheus-space.us] (temporary admin)
+Team contact: 
++ Edward Paul Lesnansky [paul.lesnansky@morpheus-space.us]
++ Praveen Yadav [praveen@morpheus-space.us]

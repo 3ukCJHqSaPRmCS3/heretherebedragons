@@ -1,0 +1,7 @@
+README.md
+setup.py
+swave.egg-info/PKG-INFO
+swave.egg-info/SOURCES.txt
+swave.egg-info/dependency_links.txt
+swave.egg-info/requires.txt
+swave.egg-info/top_level.txt

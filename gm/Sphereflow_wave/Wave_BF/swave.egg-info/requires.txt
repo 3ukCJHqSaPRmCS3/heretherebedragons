@@ -1,0 +1,7 @@
+cfs>=0.0.2
+matplotlib>=3.4
+numba>=0.52
+numpy>=1.19
+pandas>=1.3.4
+path
+pyrsistent>=0.18
