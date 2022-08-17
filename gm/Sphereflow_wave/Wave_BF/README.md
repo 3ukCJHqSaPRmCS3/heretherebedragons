@@ -14,10 +14,3 @@ This is the repository for wave, a sphereflow side project. The constellation de
 
 * Code review from the team meambers 
 * Writing layout in line with the sphereflow package layout
-
-### Who do I talk to? ###
-
-Admin of the repo: Giuliana E. Miceli [giuliana.miceli@morpheus-space.us] (temporary admin)
-Team contact: 
-+ Edward Paul Lesnansky [paul.lesnansky@morpheus-space.us]
-+ Praveen Yadav [praveen@morpheus-space.us]
